@@ -52,3 +52,8 @@ The internet's biggest collection of open source dog pictures
 ### This Person Does not Exists
 * https://thisxdoesnotexist.com/
 
+### Daily experience API
+
+Free keyless JSON with one daily experience, image and source URL; Dutch and Netherlands scope by default.
+
+* https://bucketlist.nl/brand/droom-van-de-dag.openapi.json
